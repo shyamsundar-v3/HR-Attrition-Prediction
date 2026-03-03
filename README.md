@@ -77,7 +77,7 @@ streamlit run app.py
 
 # 📌 Tech Stack
 
-1.Python 🐍
+1.Python 
 
 2.Streamlit
 
