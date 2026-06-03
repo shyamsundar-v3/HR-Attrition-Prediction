@@ -51,9 +51,9 @@ HR_Attrition_Project/
 
 git clone https://github.com/shyamsundar-v3/HR-Attrition-Prediction.git<br>
 
-cd hr_attrition_project
+cd HR-Attrition-Prediction
 
-2. Create a virtual environment (optional but recommended)
+### 2. Create a virtual environment (optional but recommended)
 
 python -m venv venv
 # On macOS/Linux:
